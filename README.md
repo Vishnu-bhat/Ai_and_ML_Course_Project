@@ -2,9 +2,9 @@
 
 A context-aware chatbot built to answer questions based on custom website content using LLaMA 2 for language generation, LangChain for orchestration, and Pinecone for semantic vector search.
 
-🔧 Tech Stack
+## 🔧 Tech Stack
 
-## LLaMA 2 – via Hugging Face Transformers
+LLaMA 2 – via Hugging Face Transformers
 
 LangChain – prompt templating, chain management
 
